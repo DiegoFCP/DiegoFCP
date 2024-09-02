@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DiegoFCP
-- :chile: SCL
+- :chile: Santiago de Chile.
 - 🚀 Computer Science Engineering Student at Duoc UC | Junior Accountant with 3+ years of experience.
 - 🌱 I’m currently learning Hybrid mobile app development with Ionic and Angular, and diving deeper into Python for AI.
 - 💞️ I’m looking to collaborate on ...
