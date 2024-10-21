@@ -2,13 +2,12 @@
 - :chile: Santiago de Chile.
 - 🚀 Computer Science Engineering Student at Duoc UC | Junior Accountant with 3+ years of experience.
 - 🌱 I’m currently learning Hybrid mobile app development with Ionic and Angular, and diving deeper into Python for AI.
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach Me At: -[dieg.cortes@duocuc.cl](mailto:dieg.cortes@duocuc.cl), [LinkedIn](https://www.linkedin.com/in/diegocortes-informatico/)
 - ⚡ Fun fact: I started coding to automate my accounting tasks, and now I’m passionate about creating full-scale applications!
 
 
 
-- 🏆 Achievements & Certifications
+- 🏆 Achievements & Certifications:
 
 - **Análisis y Planificación de Requerimientos Informáticos** - Instituto Profesional DuocUC
 - **Análisis y Desarrollo de Modelos de Datos** - Instituto Profesional DuocUC
